@@ -1,7 +1,6 @@
 "use client";
 
 import karyawanJSON from "@/deskripsi_test/karyawan.json";
-import { toMerged } from "es-toolkit";
 import { useEffect } from "react";
 
 export default function HalamanPertama() {
