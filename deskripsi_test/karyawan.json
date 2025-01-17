@@ -1,0 +1,155 @@
+[
+  {
+    "id": "01dd8aef-4ec4-4253-9235-1c9958c2271b",
+    "nama": "Ferdinan",
+    "umur": "20",
+    "hobi": [
+      {
+        "id": "a1dd8aef-4ec4-4053-9235-3c9958c2771b",
+        "label": "Sepak Bola"
+      },
+      {
+        "id": "a1dd8aef-4ec4-4053-9235-3c9958c2271b",
+        "label": "Badminton"
+      },
+      {
+        "id": "a1dd8aef-4ec4-4053-9235-1c9958c2271b",
+        "label": "Berenang"
+      },
+      {
+        "id": "a1dd8aef-4ec4-4253-9235-1c9958c2271b",
+        "label": "Hiking"
+      }
+    ],
+    "makanan_favorit": [
+      {
+        "id": 1,
+        "restaurant": "Shabu Hachi",
+        "menu": [
+          {
+            "id": 1,
+            "nama": "Nasi Goreng"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "restaurant": "Black Owl",
+        "menu": [
+          {
+            "id": 2,
+            "nama": "Es Teh Manis"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "restaurant": "Marugame Udon",
+        "menu": [
+          {
+            "id": 2,
+            "nama": "Nasi Goreng"
+          },
+          {
+            "id": 4,
+            "nama": "Es Jeruk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "81dd8aef-4ec4-4253-9235-1c9958c2271b",
+    "nama": "Fajar",
+    "umur": "19",
+    "hobi": [
+      {
+        "id": "a1dd8aef-4ec4-4053-9235-3c9958c2771b",
+        "label": "Sepak Bola"
+      }
+    ],
+    "makanan_favorit": [
+      {
+        "id": 2,
+        "restaurant": "Black Owl",
+        "menu": [
+          {
+            "id": 2,
+            "nama": "Es Teh Manis"
+          },
+          {
+            "id": 3,
+            "nama": "Es Kelapa"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "restaurant": "Marugame Udon",
+        "menu": [
+          {
+            "id": 2,
+            "nama": "Nasi Goreng"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "91dd8aef-4ec4-4253-9235-1c9958c2271b",
+    "nama": "Hasbi",
+    "umur": "30",
+    "hobi": [
+      {
+        "id": "a1dd8aef-4ec4-4053-9235-3c9958c2771b",
+        "label": "Sepak Bola"
+      },
+      {
+        "id": "a1dd8aef-4ec4-4053-9235-1c9958c2271b",
+        "label": "Berenang"
+      }
+    ],
+    "makanan_favorit": [
+      {
+        "id": 1,
+        "restaurant": "Shabu Hachi",
+        "menu": [
+          {
+            "id": 1,
+            "nama": "Nasi Goreng"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "restaurant": "Black Owl",
+        "menu": [
+          {
+            "id": 5,
+            "nama": "Air Mineral"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "91dd1aef-4ec4-4253-9235-1c9958c2271b",
+    "nama": "Peter",
+    "umur": "29",
+    "hobi": [
+      {
+        "id": "a1dd8aef-4ec4-4053-9235-3c9958c2771b",
+        "label": "Sepak Bola"
+      },
+      {
+        "id": "a1dd8aef-4ec4-4053-9235-1c9958c2271b",
+        "label": "Berenang"
+      },
+      {
+        "id": "a1dd8aef-4ec4-4253-9235-1c9958c2271b",
+        "label": "Hiking"
+      }
+    ],
+    "makanan_favorit": []
+  }
+]
